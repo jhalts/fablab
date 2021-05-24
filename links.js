@@ -6,7 +6,8 @@ document.write('\
     <li class="dropdown">\
         <a href="javascript:void(0)" class="dropbtn">Projects <i class="fas fa-caret-down"></i></a>\
         <div class="dropdown-content">\
-            <a id="dropTop" href="flag.html">Flag</a>\
+            <a id="dropTop" href="whistle.html">Whistle</a>\
+            <a href="flag.html">Flag</a>\
             <a href="lamp.html">Lamp</a>\
             <a href="laptopholder.html">Laptop Holder</a>\
             <a id="dropBottom" href="gamepad.html">Gamepad</a>\
@@ -14,7 +15,7 @@ document.write('\
     </li>\
 </div>\
 <div id="headerItemsRight">\
-    <li class="some"><a href="https://www.linkedin.com/in/jukkahaltsonen/" target="_blank"><i class="fab fa-linkedin"></i></a></li>\
+    <!--<li class="some"><a href="https://www.linkedin.com/in/jukkahaltsonen/" target="_blank"><i class="fab fa-linkedin"></i></a></li>-->\
 </div>\
 </header>\
 <footer>&copy; 2021 Jukka Haltsonen</footer>\
